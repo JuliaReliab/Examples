@@ -1,0 +1,4 @@
+*.mat
+*.dot
+gospn*
+.ipynb_checkpoints
