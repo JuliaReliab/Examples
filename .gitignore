@@ -2,3 +2,4 @@
 *.dot
 gospn*
 .ipynb_checkpoints
+mxgraph2spn
